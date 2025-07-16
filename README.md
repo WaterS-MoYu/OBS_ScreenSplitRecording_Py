@@ -24,5 +24,7 @@ Python Script for multi OBS clients Screen Recording
 - Go to D:\obs-studio-new\bin\64bit, find obs64.exe and right click it and send to desktop as a windows shortcut
 - Right click the new OBS desktop shortcut, select Properties(属性), at the Target(目标) box, add " --portable" after the D:\obs-studio-new\bin\64bit\obs64.exe path line, now you can double click it and use the second OBS at the same time
 
+  <img src="https://github.com/WaterS-MoYu/OBS_ScreenSplitRecording_Py/blob/main/new%20obs%20client%20shortcut%20setting.png">
+
 # Finally
 If you can not understand, please see these png files of this project
