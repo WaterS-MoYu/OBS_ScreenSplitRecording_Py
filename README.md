@@ -4,7 +4,7 @@ Python Script for multi OBS clients Screen Recording
 # How to use
 - Install Python with version >= 3.9, or conda create a virtual environment of python version >= 3.9
 - Click Menu Tools(工具)-->Scripts(脚本), you can see a new window, click Python Settings(Python设置) tab, click Browse(浏览) button to choose your PC's python folder which contains python.exe, you can see "Loaded Python Version: 3.xx(已加载Python版本:3.xx)" below if it is loaded
-  <https://github.com/WaterS-MoYu/OBS_ScreenSplitRecording_Py/blob/main/python%20setting.png>
+  <img src="https://github.com/WaterS-MoYu/OBS_ScreenSplitRecording_Py/blob/main/python%20setting.png">
 - Click and back to the Scripts(脚本) tab, click the + button at the left-buttom corner, choose one of the python scripts of this project(such as obs_recording_plugin_LU.py), you can see several chinese parameters on the right
   - Note: the name of script indicates the area it will record: LU is Left Top 1/4 of screen, LD is Left bottom 1/4 of screen, RU and RD are right top/bottom 1/4 of screen, FULL is the whole screen
 - Set the parameters
